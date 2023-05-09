@@ -6,3 +6,7 @@ Some of the images and the groundtruth of the dataset:
 ![image](https://github.com/FengLiang-Whu/SARSendLandV1.0/blob/main/images/label1.png)
 ![image](https://github.com/FengLiang-Whu/SARSendLandV1.0/blob/main/images/image2.tif)
 ![image](https://github.com/FengLiang-Whu/SARSendLandV1.0/blob/main/images/label2.png)
+
+you can download the data from here:
+https://pan.baidu.com/s/1gDBNhrpudXZYuftGNPLQjg 
+with code: hj5e 
